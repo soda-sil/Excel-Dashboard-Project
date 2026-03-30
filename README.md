@@ -8,7 +8,7 @@ Using a real-world dataset of 1,000+ customer records, the goal was to clean the
 
 ## 📂 Dataset
 
-- **Source:** Alex The Analyst — Excel Tutorial Dataset
+- **Source:** Bike Buyers Dataset from AlexTheAnalyst
 - **Rows:** 1,026 records (1,000 after removing duplicates)
 - **Columns:** ID, Marital Status, Gender, Income, Children, Education, Occupation, Home Owner, Cars, Commute Distance, Region, Age, Purchased Bike
 
