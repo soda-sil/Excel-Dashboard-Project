@@ -15,24 +15,24 @@ Using a real-world dataset of 1,000+ customer records, the goal was to clean the
 
 ## 🛠️ Tools Used
 
-- Microsoft Excel: data cleaning, Pivot Tables, charts, and dashboard
+- **Microsoft Excel:** data cleaning, Pivot Tables, charts, and dashboard
 
 
 ## 🔍 Project Workflow
 
 1. **Data Cleaning (Working Sheet)**
-  - Preserved the original raw data by working on a separate sheet
-  - Removed 26 duplicate rows using Excel's Remove Duplicates tool
-  - Replaced abbreviated values: M → Married / S → Single, M → Male / F → Female
-  - Changed the Income column data type from General to Currency
-  - Created a new Age Brackets column using a nested IF formula to group ages
+    - Preserved the original raw data by working on a separate sheet
+    - Removed 26 duplicate rows using Excel's Remove Duplicates tool
+    - Replaced abbreviated values: M → Married / S → Single, M → Male / F → Female
+    - Changed the Income column data type from General to Currency
+    - Created a new Age Brackets column using a nested IF formula to group ages
 
 2. **Pivot Tables & Charts**
-  - Built three Pivot Tables to answer key business questions:Do higher earners buy more bikes? Does proximity affect bike buying? Which age group buys the most bikes?
+    - Built three Pivot Tables to answer key business questions:Do higher earners buy more bikes? Does proximity affect bike buying? Which age group buys the most bikes?
 
 3. **Interactive Dashboard**
-  - Combined all three charts into a single clean dashboard
-  - Added Slicers to allow dynamic filtering by: Marital Status, Region, Education
+    - Combined all three charts into a single clean dashboard
+    - Added Slicers to allow dynamic filtering by: Marital Status, Region, Education
 
 
 ## 📈 Key Insights
@@ -45,12 +45,12 @@ Using a real-world dataset of 1,000+ customer records, the goal was to clean the
 
 ## 💡 Key Excel Skills Demonstrated
 
-- Data Cleaning: Remove Duplicates, Find & Replace, data type formatting
-- Nested IF: Age bracket classification
-- Pivot Tables: Aggregating and summarizing data
-- Pivot Charts: Bar, line, and column visualizations
-- Slicers: Interactive dashboard filtering
-- Dashboard Design: Combining charts into a single view
+- **Data Cleaning:** Remove Duplicates, Find & Replace, data type formatting
+- **Nested IF:** Age bracket classification
+- **Pivot Tables**: Aggregating and summarizing data
+- **Pivot Charts:** Bar, line, and column visualizations
+- **Slicers:** Interactive dashboard filtering
+- **Dashboard Design:** Combining charts into a single view
 
 ## 📁 Repository Structure
 
@@ -72,4 +72,5 @@ Using a real-world dataset of 1,000+ customer records, the goal was to clean the
 ### Sofia Costa
 
 https://www.linkedin.com/in/sofiassvcosta/
+
 https://github.com/soda-sil
