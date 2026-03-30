@@ -52,13 +52,6 @@ Using a real-world dataset of 1,000+ customer records, the goal was to clean the
 - **Slicers:** Interactive dashboard filtering
 - **Dashboard Design:** Combining charts into a single view
 
-## 📁 Repository Structure
-
-├── README.md
-
-└── data/
-
-│    └── Project - Excel Dataset to Dashboard.xlsx    # Full workbook with all sheets and dashboard
 
 ## 🚀 How to Reproduce
 
