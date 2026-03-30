@@ -57,7 +57,8 @@ Using a real-world dataset of 1,000+ customer records, the goal was to clean the
 ├── README.md
 
 └── data/
-    └── bike_buyers_dashboard.xlsx    # Full workbook with all sheets and dashboard
+
+│    └── Project - Excel Dataset to Dashboard.xlsx    # Full workbook with all sheets and dashboard
 
 ## 🚀 How to Reproduce
 
@@ -65,6 +66,9 @@ Using a real-world dataset of 1,000+ customer records, the goal was to clean the
 1. Open in Microsoft Excel
 1. Navigate through the sheets: bike_buyers → Working Sheet → Pivot Table → Dashboard
 1. Use the slicers on the Dashboard sheet to filter and explore the data interactively
+
+## 🖼️ Dashboard Preview
+<img width="957" height="653" alt="Excel - Dashboard Preview" src="https://github.com/user-attachments/assets/aa12a830-2300-4efb-ac6f-e1aa14fdfe6d" />
 
 
 ## 👤 Author
